@@ -1,8 +1,9 @@
 package java_lesson_silver_QA;
+//git third commit
 //continue と break
 //break は直近の繰り返し処理そのものを抜ける。
+//
 //continue は以降の処理を繰り返しの処理をスキップする。
-
 public class Main_02 {
 
 	public static void main(String[] args) {
