@@ -1,5 +1,5 @@
 package java_lesson_silver_QA;
-//多次元配列の要素を抽出したい。
+//多次元配列の要素を抽出したい。git変更確認
 public class Main_01 {
 
 	public static void main(String[] args) {
