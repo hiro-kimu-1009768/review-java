@@ -1,5 +1,5 @@
 package java_lesson_silver_QA;
-//git third commit 変更
+//git fifth commit 変更_20170831
 //continue と break
 //break は直近の繰り返し処理そのものを抜ける。
 //
